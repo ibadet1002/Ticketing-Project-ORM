@@ -1,8 +1,9 @@
 package com.practice.dto;
 
-import ch.qos.logback.core.status.Status;
+
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import com.practice.enums.Status;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
